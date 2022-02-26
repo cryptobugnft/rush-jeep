@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x669765aE975d4BeA5C557E2639968D91b9f85056",
   "SCAN_LINK": "https://www.smartscan.cash/address/0x669765aE975d4BeA5C557E2639968D91b9f85056",
   "NETWORK": {
-    "NAME": "SmartBCH",
+    "NAME": "SmartBCH Testnet",
     "SYMBOL": "BCH",
-    "ID": 10000
+    "ID": 10001
   },
   "NFT_NAME": "Jeepney Rush NFT",
   "SYMBOL": "JEEP",
