@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x39a7488A3c6E6202053D66fa56534F5c2Edfb2bB",
   "SCAN_LINK": "https://www.smartscan.cash/address/0x39a7488A3c6E6202053D66fa56534F5c2Edfb2bB",
   "NETWORK": {
-    "NAME": "Rinkeby Test Network",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "SmartBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
   },
   "NFT_NAME": "Jeepney Rush",
   "SYMBOL": "JEEP",
