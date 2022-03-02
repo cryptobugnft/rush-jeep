@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x39a7488A3c6E6202053D66fa56534F5c2Edfb2bB",
-  "SCAN_LINK": "https://www.smartscan.cash/address/0x39a7488A3c6E6202053D66fa56534F5c2Edfb2bB",
+  "CONTRACT_ADDRESS": "0xB64Dc5aA8f34c0db9772F475D4fe2878C1Dc5be5",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0xB64Dc5aA8f34c0db9772F475D4fe2878C1Dc5be5",
   "NETWORK": {
-    "NAME": "SmartBCH Test Net",
+    "NAME": "SmartBCH",
     "SYMBOL": "BCH",
-    "ID": 10001
+    "ID": 10000
   },
   "NFT_NAME": "Jeepney Rush",
   "SYMBOL": "JEEP",
